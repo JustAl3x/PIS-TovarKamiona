@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T15:04:51.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="-qEkfiDUZyuqMKiYgUv0" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T15:53:50.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="sG5QEUrpryiqZiJfYOvY" version="22.0.8" type="github">
   <diagram name="Page-1" id="Q5Q5RFiGnW59D8GDFUN4">
     <mxGraphModel dx="973" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,26 +88,11 @@
             <mxPoint x="140" y="118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5V0ruPGhY-4B58V5-Gp4-44" value="Senzori" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="90" y="38" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5V0ruPGhY-4B58V5-Gp4-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="40" as="sourcePoint" />
-            <mxPoint x="199.5" y="118" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5V0ruPGhY-4B58V5-Gp4-46" value="GPS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="160" y="48" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5V0ruPGhY-4B58V5-Gp4-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="40" as="sourcePoint" />
             <mxPoint x="260" y="118" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5V0ruPGhY-4B58V5-Gp4-48" value="IoT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="48" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5V0ruPGhY-4B58V5-Gp4-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -130,11 +115,47 @@
         <mxCell id="5V0ruPGhY-4B58V5-Gp4-52" value="Senzori" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5V0ruPGhY-4B58V5-Gp4-53" value="GPS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="250" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5V0ruPGhY-4B58V5-Gp4-54" value="IoT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="248" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5V0ruPGhY-4B58V5-Gp4-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="127.17" as="sourcePoint" />
+            <mxPoint x="380" y="127.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5V0ruPGhY-4B58V5-Gp4-57" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Lokacija" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="98" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5V0ruPGhY-4B58V5-Gp4-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="157.17000000000002" as="sourcePoint" />
+            <mxPoint x="380" y="157.17000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5V0ruPGhY-4B58V5-Gp4-59" value="Stanje tereta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="128" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5V0ruPGhY-4B58V5-Gp4-61" value="ELD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="248" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5V0ruPGhY-4B58V5-Gp4-62" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Pracenje" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="48" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5V0ruPGhY-4B58V5-Gp4-63" value="Kontrola" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="50" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5V0ruPGhY-4B58V5-Gp4-64" value="RUTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="198" width="160" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="5V0ruPGhY-4B58V5-Gp4-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="190" as="sourcePoint" />
+            <mxPoint x="380" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5V0ruPGhY-4B58V5-Gp4-66" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Odredjivanje rute" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="168" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
